@@ -1,4 +1,4 @@
-**Shewn & Lexuizm Düşman Çatlatan Guard**
+**Papaz & Shewn & Lexuizm Düşman Çatlatan Guard**
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=shewnsex&color=yellow"/>

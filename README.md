@@ -9,7 +9,7 @@
 
 Size sunduğum Düşman Çatlatan Guard projesi ile ilgili herhangi bir sorun olursa bana veya "lexuizm" e Discord'dan ulaşabilirsiniz.
 
-Not: Bu projeyi paylaşmama izin verdiği için "papazchavo." ya teşşekür ederim.
+Not: Bu projeyi paylaşmama izin verdiği için "papazchavo." ya teşekkür ederim.
 
 ```js
 "settings.json" Dosyasını doldurunuz

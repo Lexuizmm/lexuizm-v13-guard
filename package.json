@@ -1,0 +1,38 @@
+{
+    "name": "v13-shewn-lexuizm-guard",
+    "version": "1.0.0",
+    "description": "",
+    "main": "ecosystem.config.js",
+    "scripts": {
+      "start": "pm2 start ecosystem.config.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "GPL-2.0",
+    "dependencies": {
+      "@discordjs/builders": "^1.7.0",
+      "@discordjs/rest": "^2.2.0",
+      "@discordjs/voice": "^0.16.1",
+      "ark.db": "^2.7.1",
+      "axios": "^0.26.1",
+      "canvafy": "^0.3.0",
+      "common-tags": "^1.8.2",
+      "cron": "^1.8.2",
+      "discord-api-types": "^0.37.67",
+      "discord-logs": "^2.2.1",
+      "discord-modals": "^1.3.9",
+      "discord-together": "^1.3.31",
+      "discord.js": "^13.17.1",
+      "express": "^4.18.2",
+      "humanize-duration": "^3.31.0",
+      "moment": "^2.29.4",
+      "moment-duration-format": "^2.3.2",
+      "mongoose": "^7.4.3",
+      "ms": "^2.1.3",
+      "pm2": "^5.3.1",
+      "request": "^2.88.2",
+      "string-table": "^0.1.5",
+      "table": "^6.8.1"
+    }
+  }
+  
